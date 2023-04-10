@@ -1,0 +1,5 @@
+email : qq@qq.qq
+pwd   : 12345678
+
+firebase :https://console.firebase.google.com/project/vueshop-ef5e4/authentication/users
+
